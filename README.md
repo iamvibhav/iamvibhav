@@ -105,4 +105,3 @@ When not immersed in code, I'm an avid enthusiast of movies and shows, always ea
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

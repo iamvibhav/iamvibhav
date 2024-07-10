@@ -91,17 +91,4 @@ When not immersed in code, I'm an avid enthusiast of movies and shows, always ea
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----

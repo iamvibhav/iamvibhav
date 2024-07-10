@@ -28,7 +28,7 @@ When not immersed in code, I'm an avid enthusiast of movies and shows, always ea
 <br/>  
 
 
-## Rapidfire  
+## Quick Bytes  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Nexus](https://nexus-ai-eight.vercel.app/)  

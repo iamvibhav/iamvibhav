@@ -48,6 +48,7 @@ When not immersed in code, I'm an avid enthusiast of movies and shows, always ea
 
 </td><td valign="top" width="50%">
 
+<img src="https://preview.redd.it/t7l9g0d7fo711.jpg?width=640&crop=smart&auto=webp&s=93544fcf7aa1b897f07f96e98120af0a558d7a89" align="left" style="width: 100%" />  
 
 
 </td></tr></table>  

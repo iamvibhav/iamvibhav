@@ -34,7 +34,7 @@ When not immersed in code, I'm an avid enthusiast of movies and shows, always ea
 - 🔭 I’m currently working on [Nexus](https://nexus-ai-eight.vercel.app/)  
   
 
-- 🌱 I’m currently learning Svelte and Next.js  
+- 🌱 I’m currently learning Svelte and Blockchain 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

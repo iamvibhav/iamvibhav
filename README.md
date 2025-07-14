@@ -1,97 +1,144 @@
-## Hey 👋, I'm Vibhav!  
-  
+# 🧠 Wakanda Forever! I’m Vibhav: Building AI to outsource my overthinking!
 
-<a href="https://iamvibhav30.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-%239B59B6.svg?&style=for-the-badge" alt="portfolio" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/iamvibhav" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamvibhav30" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=pink alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamvibhav30" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=500&color=58A6FF¢er=true&vCenter=true&width=600&height=80&lines=AI%2FML+Engineer;Data+Science+and+Agentic+Gen+AI;Research+into+Real-World+AI+Solutions" alt="Typing SVG"/>
+</div>
 
+---
 
+## 🌌 About Me
 
-### About Me  
-I'm a versatile full-stack developer passionate about AI and blockchain. I create robust, lightweight applications and websites, crafting elegant solutions that blend complex technologies with user-friendly interfaces.
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Vibhav"
+        self.role = "AI/ML Engineer"
+        self.location = "India"
+        self.stack = ["TensorFlow", "LangChain", "Next.js", "FastAPI"]
+        self.mission = "Bridging research into real-world AI solutions"
+        self.current_focus = ["Agentic AI Workflows", "MLOps", "Multimodal AI"]
 
-My contributions include being a Spectreseek at Buildspace's Nights and Weekends S5 and participating in TSoC 2024 as a blockchain and web developer.
+    def say_hello(self):
+        print(f"Hi, I'm {self.name}! Let's build scalable AI systems that solve real-world problems!")
 
-Currently pursuing B.Tech at KIIT, Bhubaneswar, I'm enhancing my technical skills.
+vibhav = AIEngineer()
+vibhav.say_hello()
+```
 
-When not immersed in code, I'm an avid enthusiast of movies and shows, always eager to catch up on the latest releases during my downtime.
-  
-  
+I’m an **Emerging AI/ML Engineer** passionate about crafting production-grade ML systems, agentic AI workflows, and scalable full-stack applications. With a background in Computer Science, I’ve evolved from building React and FastAPI apps to deploying deep learning pipelines and LLM-powered solutions. I specialize in **MLOps**, **LLM orchestration**, and **user-centric platforms**, using tools like LangChain, TensorFlow, and AWS to turn research into impactful products.
 
-<br/>  
+Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **LangGraph for multi-agent systems** and **RAG techniques** for advanced AI integrations. When I’m not coding, I’m diving into sci-fi movies or brainstorming the next big AI idea. 🚀
 
+- 🔭 **Working on**: [Kidney CT Classifier](https://github.com/iamvibhav/kidney-ct-classifier)  
+- 🌱 **Learning**: Advanced RAG, Multimodal AI, Svelte  
+- ❓ **Ask me about**: MLOps, LangChain, or surviving late-night debugging  
+- ⚡ **Fun fact**: My code runs on coffee and cyberpunk playlists  
 
-## Quick Bytes  
-<table><tr><td valign="top" width="50%">
+---
 
-- 🔭 I’m currently working on [Nexus](https://nexus-ai-eight.vercel.app/)  
-  
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning Svelte and Blockchain 
-  
+### **AI/ML & Data Science**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain/00D4FF" height="40" alt="LangChain"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face"/>
+</div>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+### **Full-Stack Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,typescript,javascript" height="40"/>
+</div>
 
-- ⚡ Fun fact: My code is like my coffee - strong, complex, and occasionally keeping me up all night  
+### **DevOps & MLOps**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github" height="40"/>
+  <img src="https://cdn.simpleicons.org/mlflow/00B7EB" height="40" alt="MLflow"/>
+  <img width="8"/>
+  <img src="https://cdn.simpleicons.org/dvc/945DD6" height="40" alt="DVC"/>
+</div>
 
+### **Databases & Languages**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,cpp,java" height="40"/>
+</div>
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://preview.redd.it/t7l9g0d7fo711.jpg?width=640&crop=smart&auto=webp&s=93544fcf7aa1b897f07f96e98120af0a558d7a89" align="left" style="width: 100%" />  
+## 🌟 Featured Projects
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=kidney-ct-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Kidney CT Classifier"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=agentic-ai-travel-planner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Agentic AI Travel Planner"/>
+</div>
 
-</td></tr></table>  
+- **🩺 Kidney CT Classifier**  
+  A VGG16-based pipeline with 95% validation accuracy for real-time diagnostics.  
+  - 🔗 [Demo](#) | 📂 [Repo](https://github.com/iamvibhav/kidney-ct-classifier)  
+  - 🛠️ Tech: TensorFlow, Flask, MLflow, DVC, Docker, AWS EC2  
 
-<br/>  
+- **🧳 Agentic AI Travel Planner**  
+  A LangChain + LangGraph multi-agent system for personalized trip itineraries.  
+  - 🔗 [Demo](https://github.com/iamvibhav/agentic-ai-travel-planner) | 📂 [Repo](https://github.com/iamvibhav/agentic-ai-travel-planner)  
+  - 🛠️ Tech: FastAPI, Streamlit, LangChain, Next.js  
 
+- **🎧 Deep Audio Classifier & Visualizer**  
+  ResNet-inspired CNN with 85% accuracy on ESC-50 dataset, deployed serverless.  
+  - 🔗 [Demo](#) | 📂 [Repo](https://github.com/iamvibhav/deep-audio-classifier)  
+  - 🛠️ Tech: PyTorch, FastAPI, Next.js, TensorBoard  
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-</div>  
+*Explore more in my [Repositories](https://github.com/iamvibhav?tab=repositories)!*
 
-<br/>  
+---
 
+## 📊 GitHub Analytics
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamvibhav&hide_title=false&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvibhav&locale=en&hide_title=false&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Languages"/>
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvibhav&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamvibhav&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="Streak"/>
+</div>
 
-</td><td valign="top" width="50%">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvibhav&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamvibhav&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+---
 
-</td></tr></table>  
+## 🏆 Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamvibhav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</div>
 
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://iamvibhav30.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/iamvibhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge exhilarating&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/iamvibhav30"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/iamvibhav30"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</div>
+
+---
+
+## 💭 Philosophy
+
+> "The true power of AI lies not in models, but in systems that leverage them wisely."
+
+<div align="center">
+  <pre>
+   ____ ___ ____ _          _ _       
+  | __ )_ _| __ )| |__   ___| | | ___  
+  |  _ \| ||  _ \| '_ \ / __| | |/ _ \ 
+  | |_) | || |_) | | | | (__| | |  __/ 
+  |____/___|____/|_| |_|____|_|_|\___|
+  </pre>
+  <img src="https://komarev.com/ghpvc/?username=iamvibhav&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>

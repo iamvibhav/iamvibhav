@@ -35,6 +35,15 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 - ⚡ **Fun fact**: My code speeds like Lewis Hamilton, fueled by Weeknd albums.
 
 ---
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://iamvibhav-ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/iamvibhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/vibhxv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/iamvibhav30"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</div>
+
 
 ## 🛠️ Tech Stack
 
@@ -66,6 +75,13 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 
 ---
 
+
+
+## 💭 Philosophy
+
+> "Tomorrow’s AI will weave intelligence into the fabric of existence, if we design it with vision."
+
+---
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -90,9 +106,7 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamvibhav&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvibhav&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+
 
 ---
 
@@ -103,20 +117,4 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 </div>
 
 ---
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://iamvibhav-ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/iamvibhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/vibhxv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/iamvibhav30"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
-
----
-
-## 💭 Philosophy
-
-> "Tomorrow’s AI will weave intelligence into the fabric of existence, if we design it with vision."
-
 

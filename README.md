@@ -1,4 +1,4 @@
-# 🧠 Hey I’m Vibhav, Building AI to outsource my overthinking!
+# 🧠 Hey, I’m Vibhav, building AI to outsource my overthinking!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=500&color=58A6FF¢er=true&vCenter=true&width=600&height=80&lines=AI%2FML+Engineer;Data+Science+and+Agentic+Gen+AI;Research+into+Real-World+AI+Solutions" alt="Typing SVG"/>
@@ -72,6 +72,7 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
   <a href="https://github.com/iamvibhav/ResoNet-Audio-CNN-Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=ResoNet-Audio-CNN-Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Deep Learning Audio Classifier & Visualizer"/></a>
   <a href="https://github.com/iamvibhav/agentic-ai-travel-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=agentic-ai-travel-planner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Agentic AI Travel Planner"/></a>
   <a href="https://github.com/iamvibhav/Kidney-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=Kidney-Disease-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Kidney CT Scan Classifier with MLOps"/></a>
+   <a href="https://github.com/iamvibhav/AutiSense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=AutiSense&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="AutiSense"/></a>
 </div>
 
 *Explore more in my [Repositories](https://github.com/iamvibhav?tab=repositories)!*
@@ -106,9 +107,9 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://iamvibhav30.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/iamvibhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge exhilarating&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/iamvibhav30"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://iamvibhav-ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/iamvibhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/vibhxv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://instagram.com/iamvibhav30"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
@@ -118,13 +119,4 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 
 > "The true power of AI lies not in models, but in systems that leverage them wisely."
 
-<div align="center">
-  <pre>
-   ____ ___ ____ _          _ _       
-  | __ )_ _| __ )| |__   ___| | | ___  
-  |  _ \| ||  _ \| '_ \ / __| | |/ _ \ 
-  | |_) | || |_) | | | | (__| | |  __/ 
-  |____/___|____/|_| |_|____|_|_|\___|
-  </pre>
-  <img src="https://komarev.com/ghpvc/?username=iamvibhav&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+

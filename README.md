@@ -117,6 +117,6 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 
 ## 💭 Philosophy
 
-> "The true power of AI lies not in models, but in systems that leverage them wisely."
+> "Tomorrow’s AI will weave intelligence into the fabric of existence, if we design it with vision."
 
 

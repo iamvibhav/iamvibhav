@@ -69,24 +69,10 @@ Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **Lan
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=kidney-ct-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Kidney CT Classifier"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=agentic-ai-travel-planner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Agentic AI Travel Planner"/>
+  <a href="https://github.com/iamvibhav/ResoNet-Audio-CNN-Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=ResoNet-Audio-CNN-Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Deep Learning Audio Classifier & Visualizer"/></a>
+  <a href="https://github.com/iamvibhav/agentic-ai-travel-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=agentic-ai-travel-planner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Agentic AI Travel Planner"/></a>
+  <a href="https://github.com/iamvibhav/Kidney-Disease-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvibhav&repo=Kidney-Disease-Classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Kidney CT Scan Classifier with MLOps"/></a>
 </div>
-
-- **🩺 Kidney CT Classifier**  
-  A VGG16-based pipeline with 95% validation accuracy for real-time diagnostics.  
-  - 🔗 [Demo](#) | 📂 [Repo](https://github.com/iamvibhav/kidney-ct-classifier)  
-  - 🛠️ Tech: TensorFlow, Flask, MLflow, DVC, Docker, AWS EC2  
-
-- **🧳 Agentic AI Travel Planner**  
-  A LangChain + LangGraph multi-agent system for personalized trip itineraries.  
-  - 🔗 [Demo](https://github.com/iamvibhav/agentic-ai-travel-planner) | 📂 [Repo](https://github.com/iamvibhav/agentic-ai-travel-planner)  
-  - 🛠️ Tech: FastAPI, Streamlit, LangChain, Next.js  
-
-- **🎧 Deep Audio Classifier & Visualizer**  
-  ResNet-inspired CNN with 85% accuracy on ESC-50 dataset, deployed serverless.  
-  - 🔗 [Demo](#) | 📂 [Repo](https://github.com/iamvibhav/deep-audio-classifier)  
-  - 🛠️ Tech: PyTorch, FastAPI, Next.js, TensorBoard  
 
 *Explore more in my [Repositories](https://github.com/iamvibhav?tab=repositories)!*
 

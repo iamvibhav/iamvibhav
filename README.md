@@ -1,4 +1,4 @@
-# 🧠 Wakanda Forever! I’m Vibhav: Building AI to outsource my overthinking!
+# 🧠 Hey I’m Vibhav, Building AI to outsource my overthinking!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=500&color=58A6FF¢er=true&vCenter=true&width=600&height=80&lines=AI%2FML+Engineer;Data+Science+and+Agentic+Gen+AI;Research+into+Real-World+AI+Solutions" alt="Typing SVG"/>
@@ -29,10 +29,10 @@ I’m an **Emerging AI/ML Engineer** passionate about crafting production-grade 
 
 Currently, I’m a B.Tech student at KIIT, Bhubaneswar, experimenting with **LangGraph for multi-agent systems** and **RAG techniques** for advanced AI integrations. When I’m not coding, I’m diving into sci-fi movies or brainstorming the next big AI idea. 🚀
 
-- 🔭 **Working on**: [Kidney CT Classifier](https://github.com/iamvibhav/kidney-ct-classifier)  
-- 🌱 **Learning**: Advanced RAG, Multimodal AI, Svelte  
+- 🔭 **Working on**: [Voyagent: Agentic AI Travel Planner](https://github.com/iamvibhav/Agentic-AI-Travel-Planner)  
+- 🌱 **Learning**: Advanced RAG, LLMOps
 - ❓ **Ask me about**: MLOps, LangChain, or surviving late-night debugging  
-- ⚡ **Fun fact**: My code runs on coffee and cyberpunk playlists  
+- ⚡ **Fun fact**: My code speeds like Lewis Hamilton, fueled by Weeknd albums.
 
 ---
 
